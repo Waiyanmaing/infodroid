@@ -19,7 +19,7 @@
 			"condition": "Good",
 			"mileage": "",
 			"gasmileage": "",
-			"body_style": "",
+			"body_style": "Sedan",
 			"key_features": [{
 				"interior": "",
 				"safety": "",
