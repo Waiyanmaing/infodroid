@@ -22,6 +22,7 @@
 			"body_style": "Sedan",
 			"key_features": [{
 				"interior": "",
+				"exterior": "",
 				"safety": "",
 				"more_features": ["(2) 12V pwr outlets",
 					"16 steel wheels w/full wheel covers",
@@ -58,6 +59,7 @@
 			"body_style": "Coupe",
 			"key_features": [{
 				"interior": "Bluetooth/Sunroof/Moonroof",
+				"exterior": "",
 				"safety": "Backup Camera",
 				"more_features": ["(Power Sunroof & Back Up Camera)",
 					"Alloy Wheels",
@@ -75,38 +77,39 @@
 		},
 		{
 			"id": "3",
-			"name": "2009 Honda Accord LX",
-			"price": "2500000",
-			"photo_1": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/images/media/223631/2009-honda-accord-ex-l-v-6-photo-223659-s-986x603.jpg",
-			"photo_2": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/images/media/223631/2009-honda-accord-ex-l-v-6-photo-223663-s-986x603.jpg",
-			"photo_3": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/images/media/223631/2009-honda-accord-ex-l-v-6-interior-photo-223652-s-986x603.jpg",
-			"trim": "2009 Honda Accord LX",
-			"engine": "2009 Honda Accord LX",
-			"vin": "2009 Honda Accord LX",
-			"transmission": "2009 Honda Accord LX",
-			"drivetrain": "2009 Honda Accord LX",
-			"fueltype": "2009 Honda Accord LX",
-			"exterior_color": ["Crystal", "Black", "Pearl"],
-			"interior_color": "Beige",
+			"name": "2018 Volkswagen Jetta 1.4T S",
+			"price": "14799",
+			"photo_1": "https://w7.pngwing.com/pngs/988/199/png-transparent-2018-volkswagen-jetta-2017-volkswagen-jetta-2015-volkswagen-jetta-car-volkswagen-compact-car-sedan-car.png",
+			"photo_2": "https://w7.pngwing.com/pngs/988/199/png-transparent-2018-volkswagen-jetta-2017-volkswagen-jetta-2015-volkswagen-jetta-car-volkswagen-compact-car-sedan-car.png",
+			"photo_3": "https://www.groovecar.com/media/stock/images/stills/2018/volkswagen/jetta/1-4t-se-4dr-sedan-5m/2018-volkswagen-jetta-1-4t-se-4dr-sedan-5m-059-large.jpg",
+			"trim": "1.4T S",
+			"engine": "1.4L 4 Cylinders",
+			"vin": "3VW2B7AJ9JM220624",
+			"transmission": "Automatic",
+			"drivetrain": "FWD",
+			"fueltype": "Gasoline",
+			"exterior_color": ["Cardinal", "Red", "Metallic"],
+			"interior_color": "GREY",
 			"condition": "Good",
 			"mileage": "",
 			"gasmileage": "",
 			"body_style": "Sedan",
 			"key_features": [{
-				"interior": "",
-				"safety": "",
-				"more_features": ["(2) 12V pwr outlets",
-					"16 steel wheels w/full wheel covers",
-					"160-watt AM/FM stereo w/CD player -inc: (6) speakers radio data system MP3/WMA playback auxiliary input jack speed-sensitive volume control",
-					"2.4L DOHC MPFI 16-valve i-VTEC I4 engine",
-					"3-point seat belts in all seating positions -inc: front automatic tensioning system front adjustable anchors",
-					"4-wheel anti-lock brake system (ABS) w/electronic brake distribution (EBD)"
+				"interior": "Bluetooth",
+				"exterior": "Premium Wheels",
+				"safety": "Backup Camera,Roadside Assistance Service",
+				"more_features": ["(Front Bucket Seats & Back Up Camera)",
+					"Alloy Wheels",
+					"Backup Camera",
+					"Bluetooth",
+					"Power Mirror Package",
+					"Roadside Assistance Kit"
 				]
 			}],
 			"sellor_info": [{
-				"name": "Test Data",
-				"phone_number": "09332322",
-				"address": "1st street"
+				"name": "Fontana Motors Direct",
+				"phone_number": "(909) 326-2365",
+				"address": "15836 Valley Blvd, Fontana, CA 92335"
 			}]
 		}
 	]
